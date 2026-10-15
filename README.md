@@ -71,13 +71,13 @@ verilog-waveform-generator/
 ├── scripts/
 │   └── create_project.tcl
 ├── waveforms/
-│   ├── 1kHz.wcfg
+│   ├── 10kHz.wcfg
 │   ├── 100kHz.wcfg
 │   ├── 500kHz.wcfg
 │   └── 1MHz.wcfg
 ├── docs/
 │   ├── rtl_schematic.png
-│   ├── 1KHz.png
+│   ├── 10KHz.png
 │   ├── 100KHz.png
 │   ├── 500Khz.png
 │   └── 1MHz.png
