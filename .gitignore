@@ -1,0 +1,19 @@
+# Vivado generated files
+vivado_project/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+*.dcp
+*.bit
+*.ltx
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.srcs/sources_1/ip/
